@@ -1,9 +1,9 @@
 list1 = [3,2,3,3,5]
 list1[:]="aqi"
 print(list1)
-List2 = []
-List3 = []
-list4 = []
+List2222 = []
+List3333 = []
+list4444 = []
 list10 = []
 list6 = []
 #..
