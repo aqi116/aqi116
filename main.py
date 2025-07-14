@@ -4,7 +4,7 @@ print(list1)
 List2222 = []
 List3333 = []
 list4444 = []
-list10 = []
+list1000 = []
 list6 = []
 #..
 list7 = []
