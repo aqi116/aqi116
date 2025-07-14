@@ -1,6 +1,6 @@
 nums = []
 while True:
-    num = input("请录入一个整数(输入STOP结束)：")
+    num = input("请123录入一个整数(输入STOP结束)：")
     if num == "STOP":
         break
     else:
